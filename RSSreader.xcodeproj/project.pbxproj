@@ -115,8 +115,6 @@
 		6ECA226C198C3CA7002D0607 /* RSSreader */ = {
 			isa = PBXGroup;
 			children = (
-				6ECA2275198C3CA8002D0607 /* RSSreaderAppDelegate.h */,
-				6ECA2276198C3CA8002D0607 /* RSSreaderAppDelegate.m */,
 				6ECA2278198C3CA8002D0607 /* Main.storyboard */,
 				6ECA227B198C3CA8002D0607 /* RSSreaderMasterViewController.h */,
 				6ECA227C198C3CA8002D0607 /* RSSreaderMasterViewController.m */,
@@ -131,6 +129,8 @@
 		6ECA226D198C3CA7002D0607 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6ECA2275198C3CA8002D0607 /* RSSreaderAppDelegate.h */,
+				6ECA2276198C3CA8002D0607 /* RSSreaderAppDelegate.m */,
 				6ECA226E198C3CA8002D0607 /* RSSreader-Info.plist */,
 				6ECA226F198C3CA8002D0607 /* InfoPlist.strings */,
 				6ECA2272198C3CA8002D0607 /* main.m */,

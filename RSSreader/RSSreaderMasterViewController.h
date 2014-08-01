@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RSSreaderMasterViewController : UITableViewController
+@interface RSSreaderMasterViewController : UITableViewController <NSXMLParserDelegate>
+@property (strong, nonatomic) IBOutlet UITableView *tableView;
 
 @end

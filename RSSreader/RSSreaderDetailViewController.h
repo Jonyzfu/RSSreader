@@ -11,6 +11,7 @@
 @interface RSSreaderDetailViewController : UIViewController
 
 @property (strong, nonatomic) id detailItem;
+@property (strong, nonatomic) IBOutlet UIWebView *webView;
+@property (copy, nonatomic) NSString *url;
 
-@property (weak, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
 @end
